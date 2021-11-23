@@ -1,6 +1,6 @@
 from PIL import Image
 import numpy as np
-
+import time
 
 def convert_image_to_mosaic(image, size, gradation_step):
     for x in range(0, len(image), size):
@@ -25,6 +25,7 @@ def main():
     res = Image.fromarray(convert_image_to_mosaic(image, block_size, gradation_step))
     res.save(input("Введите имя файла, в которой хотите сохранить результат: "))
 
-
+start_time = time.time()
 if __name__ == '__main__':
     main()
+print("---%s seconds ---"%(time.time()-start_time))
