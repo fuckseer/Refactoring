@@ -19,3 +19,6 @@
 
 результаты доктестов
 ![image](https://user-images.githubusercontent.com/75948025/143215717-1260df73-f2c7-4f52-86dc-80753b88270f.png)
+
+Деббагер
+![image](https://user-images.githubusercontent.com/75948025/143218729-cbbd3866-d4cf-4d06-96a9-7aee2b1174b8.png)
