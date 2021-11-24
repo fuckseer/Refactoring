@@ -2,6 +2,7 @@ from PIL import Image
 import numpy as np
 
 def convert_image_to_mosaic(image, size, gradation_step):
+
     for x in range(0, len(image), size):
         for y in range(0, len(image[0]), size):
             image[x:x + size, y:y + size] = get_average_brightness(
