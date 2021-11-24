@@ -15,3 +15,7 @@
 после:
 ![res2](https://user-images.githubusercontent.com/75948025/143095862-919671b4-6305-4726-94a2-54d1cb00e608.jpg)
 ![idk](https://user-images.githubusercontent.com/75948025/143095874-70874cc4-db2c-4a1a-b839-b09570b28a7e.jpg)
+
+
+результаты доктестов
+![image](https://user-images.githubusercontent.com/75948025/143215717-1260df73-f2c7-4f52-86dc-80753b88270f.png)
