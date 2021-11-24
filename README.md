@@ -22,3 +22,6 @@
 
 Деббагер
 ![image](https://user-images.githubusercontent.com/75948025/143218729-cbbd3866-d4cf-4d06-96a9-7aee2b1174b8.png)
+градации серого
+![image](https://user-images.githubusercontent.com/75948025/143220046-58a5beea-8063-4e28-a627-2ae3e5f26b92.png)
+
