@@ -1,7 +1,9 @@
 Вывод профайлера новый фильтр
 ![image](https://user-images.githubusercontent.com/75948025/143092476-09734135-d766-41cf-b171-abf0fe5e8107.png)
+![image](https://user-images.githubusercontent.com/75948025/143252914-e694aca4-235c-4b83-9d90-c4209883aca8.png)
 
 старый фильтр:
+![image](https://user-images.githubusercontent.com/75948025/143250282-28d69185-9a20-476f-9386-7d6e4e1ca436.png)
 ![image](https://user-images.githubusercontent.com/75948025/143092866-89cb61cc-4317-4e6b-ab86-ff7d22624839.png)
 Очевидно, что такая разница возникает из-за того, что в новом фильтре необходимо вводить данные вручную.
 
@@ -23,6 +25,8 @@
 
 Деббагер
 ![image](https://user-images.githubusercontent.com/75948025/143218729-cbbd3866-d4cf-4d06-96a9-7aee2b1174b8.png)
+![image](https://user-images.githubusercontent.com/75948025/143252092-231004e8-31c1-4000-a928-231123874271.png)
+
 градации серого
 ![image](https://user-images.githubusercontent.com/75948025/143220046-58a5beea-8063-4e28-a627-2ae3e5f26b92.png)
 
